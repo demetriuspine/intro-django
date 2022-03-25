@@ -10,3 +10,5 @@ python3 manage.py startapp polls
 
 
 após criar a view, é preciso mapeá-la
+
+depois é preciso apontar url raiz para o modulo do 'polls'
