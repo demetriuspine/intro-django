@@ -1,4 +1,9 @@
 python3 manage.py runserver
-  inicia o app (roda por padrao na porta 8000 ) e é atualizado a cada atualização de arquivos
+  inicia o projeto (roda por padrao na porta 8000 ) e é atualizado a cada atualização de arquivos
 
 python3 manage.py runserver 8080
+
+
+
+python manage.py startapp polls
+  inicia um novo app
